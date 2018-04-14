@@ -1,0 +1,21 @@
+# Email sent to DSpace users when they successfully export an item or collection.
+#
+# Parameters: {0} the export error
+#             {1} the URL to the feedback page
+#             
+#
+# See org.dspace.core.Email for information on the format of this file.
+#
+Subject: Repositorio Digital Ufps - La exportación del artículo que solicitó no se completó.
+La exportación del artículo que solicitó no se completó, debido a la siguiente razón:
+ {0}
+
+Para más información, puede contactar al administrador de su sistema:
+ {1}
+
+
+
+Biblioteca Eduardo Cote Lamus
+Repositorio Digital Ufps-RDUFPS
+repository@ufps.edu.co
+

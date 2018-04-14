@@ -1,0 +1,20 @@
+# Email sent to DSpace users when they successfully export an item or collection.
+#
+# Parameters: {0} is expanded to a special URL
+#             {1} configurable time (hours) an export file will be kept
+#
+# See org.dspace.core.Email for information on the format of this file.
+#
+Subject: DSpace - La exportación del artículo solicitada está lista para su descarga
+La exportación del artículo que solicitó desde el repositorio ahora está lista para descargar..
+
+Puede descargar el archivo comprimido utilizando el siguiente enlace:
+{0}
+
+Este archivo permanecerá disponible por lo menos{1} horas.  
+
+
+Biblioteca Eduardo Cote Lamus
+Repositorio Digital Ufps-RDUFPS
+repository@ufps.edu.co
+

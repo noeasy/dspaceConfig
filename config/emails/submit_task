@@ -1,0 +1,27 @@
+# Workflow task email message
+#
+# {0}  Title of submission
+# {1}  Name of collection
+# {2}  submitter's name
+# {3}  Description of task
+# {4}  link to 'my DSpace' page 
+#
+Subject: Repositorio Digital Ufps: Tienes una nueva tarea.
+
+Un nuevo item a sido subido:
+
+Titulo:        {0}
+Colección:   {1}
+Enviado por: {2}
+
+{3}
+
+Para reclamar esta tarea, visite su perfil en  "Mi Perfil"
+page:  {4}
+
+Muchas gracias!
+
+Biblioteca Eduardo Cote Lamus
+Repositorio Digital Ufps-RDU
+repository@ufps.edu.co
+

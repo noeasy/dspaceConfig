@@ -1,0 +1,26 @@
+# Rejection email message
+#
+# {0}  Title of submission
+# {1}  Name of collection
+# {2}  Name of the rejector
+# {3}  Reason for the rejection
+# {4}  Link to 'My DSpace' page
+#
+Subject: DSpace: Envío rechazado
+
+Su envío: {0}
+
+Para la colección: {1}
+
+Su envío ha sido rechazado por: {2}
+con la siguiente explicación:
+
+{3}
+
+Su envío no ha sido eliminado. Puede acceder desde
+"Mi Perfil" page: {4}
+
+
+Biblioteca Eduardo Cote Lamus
+Repositorio Digital Ufps-RDU
+repository@ufps.edu.co

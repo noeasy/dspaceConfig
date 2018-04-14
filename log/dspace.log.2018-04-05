@@ -1,0 +1,63 @@
+2018-04-05 19:54:11,189 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS is 'PostgreSQL'
+2018-04-05 19:54:11,191 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS driver version is '9.1.24lts2'
+2018-04-05 19:54:11,246 INFO  org.dspace.storage.rdbms.DatabaseUtils @ Loading Flyway DB migrations from: filesystem:/dspace/etc/postgres, classpath:org.dspace.storage.rdbms.sqlmigration.postgres, classpath:org.dspace.storage.rdbms.migration
+2018-04-05 19:54:11,740 INFO  org.flywaydb.core.internal.dbsupport.DbSupportFactory @ Database: jdbc:postgresql://localhost:5432/dspace (PostgreSQL 9.1)
+2018-04-05 19:54:12,459 INFO  org.dspace.storage.rdbms.DatabaseUtils @ DSpace database schema is up to date
+2018-04-05 19:54:20,286 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Loading XMLUI configuration from: /dspace/config/xmlui.xconf
+2018-04-05 19:54:20,586 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Displaying Artifacts', path='resource://aspects/ViewArtifacts/'.
+2018-04-05 19:54:20,586 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Browsing Artifacts', path='resource://aspects/BrowseArtifacts/'.
+2018-04-05 19:54:20,586 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Discovery', path='resource://aspects/Discovery/'.
+2018-04-05 19:54:20,586 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Administration', path='resource://aspects/Administrative/'.
+2018-04-05 19:54:20,586 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='E-Person', path='resource://aspects/EPerson/'.
+2018-04-05 19:54:20,586 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Submission and Workflow', path='resource://aspects/Submission/'.
+2018-04-05 19:54:20,587 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Statistics', path='resource://aspects/Statistics/'.
+2018-04-05 19:54:20,587 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Original Workflow', path='resource://aspects/Workflow/'.
+2018-04-05 19:54:20,587 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Theme Installed: name='Atmire Mirage Theme', path='Mirage/', id='null', regex='.*', handle='null'.
+2018-04-05 19:54:57,677 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS is 'PostgreSQL'
+2018-04-05 19:54:57,685 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS driver version is '9.1.24lts2'
+2018-04-05 19:54:57,749 INFO  org.dspace.storage.rdbms.DatabaseUtils @ Loading Flyway DB migrations from: filesystem:/dspace/etc/postgres, classpath:org.dspace.storage.rdbms.sqlmigration.postgres, classpath:org.dspace.storage.rdbms.migration
+2018-04-05 19:54:57,799 INFO  org.flywaydb.core.internal.dbsupport.DbSupportFactory @ Database: jdbc:postgresql://localhost:5432/dspace (PostgreSQL 9.1)
+2018-04-05 19:54:57,977 INFO  org.dspace.storage.rdbms.DatabaseUtils @ DSpace database schema is up to date
+2018-04-05 19:55:10,300 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS is 'PostgreSQL'
+2018-04-05 19:55:10,302 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS driver version is '9.1.24lts2'
+2018-04-05 19:55:10,360 INFO  org.dspace.storage.rdbms.DatabaseUtils @ Loading Flyway DB migrations from: filesystem:/dspace/etc/postgres, classpath:org.dspace.storage.rdbms.sqlmigration.postgres, classpath:org.dspace.storage.rdbms.migration
+2018-04-05 19:55:10,414 INFO  org.flywaydb.core.internal.dbsupport.DbSupportFactory @ Database: jdbc:postgresql://localhost:5432/dspace (PostgreSQL 9.1)
+2018-04-05 19:55:10,558 INFO  org.dspace.storage.rdbms.DatabaseUtils @ DSpace database schema is up to date
+2018-04-05 19:55:21,002 INFO  org.dspace.storage.rdbms.DatabaseUtils @ Loading Flyway DB migrations from: filesystem:/dspace/etc/postgres, classpath:org.dspace.storage.rdbms.sqlmigration.postgres, classpath:org.dspace.storage.rdbms.migration
+2018-04-05 19:55:21,138 INFO  org.dspace.storage.rdbms.DatabaseUtils @ DSpace database schema is up to date
+2018-04-05 19:55:50,862 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS is 'PostgreSQL'
+2018-04-05 19:55:50,870 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS driver version is '9.1.24lts2'
+2018-04-05 19:55:50,991 INFO  org.dspace.storage.rdbms.DatabaseUtils @ Loading Flyway DB migrations from: filesystem:/dspace/etc/postgres, classpath:org.dspace.storage.rdbms.sqlmigration.postgres, classpath:org.dspace.storage.rdbms.migration
+2018-04-05 19:55:51,051 INFO  org.flywaydb.core.internal.dbsupport.DbSupportFactory @ Database: jdbc:postgresql://localhost:5432/dspace (PostgreSQL 9.1)
+2018-04-05 19:55:51,267 INFO  org.dspace.storage.rdbms.DatabaseUtils @ DSpace database schema is up to date
+2018-04-05 19:55:54,884 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2018-04-05 19:55:54,999 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-04-05 19:55:55,130 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=933B1087F76810887B83C731192C812F:ip_addr=192.168.1.8:browse_mini:
+2018-04-05 19:55:55,710 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2018-04-05 20:27:02,709 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=2405D56AEB6A3026417FEE9043A3C7EE:ip_addr=192.168.1.8:authenticate:attempting password auth of user=repostory@ufps
+2018-04-05 20:27:02,905 INFO  org.dspace.app.webui.servlet.PasswordServlet @ anonymous:session_id=2405D56AEB6A3026417FEE9043A3C7EE:ip_addr=192.168.1.8:failed_login:email=repostory@ufps, result=4
+2018-04-05 20:27:14,356 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=2405D56AEB6A3026417FEE9043A3C7EE:ip_addr=192.168.1.8:authenticate:attempting password auth of user=repositorio@ufps
+2018-04-05 20:27:14,562 INFO  org.dspace.authenticate.PasswordAuthentication @ repositorio@ufps:session_id=2405D56AEB6A3026417FEE9043A3C7EE:ip_addr=192.168.1.8:authenticate:type=PasswordAuthentication
+2018-04-05 20:27:14,657 INFO  org.dspace.eperson.EPerson @ repositorio@ufps:session_id=2405D56AEB6A3026417FEE9043A3C7EE:ip_addr=192.168.1.8:update_eperson:eperson_id=1
+2018-04-05 20:27:14,710 INFO  org.dspace.app.webui.servlet.PasswordServlet @ repositorio@ufps:session_id=2405D56AEB6A3026417FEE9043A3C7EE:ip_addr=192.168.1.8:login:type=explicit
+2018-04-05 20:27:14,727 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ repositorio@ufps:session_id=5E9F7326A150B5B02B29DCD7C6F428DA:ip_addr=192.168.1.8:view_mydspace:
+2018-04-05 20:27:27,280 INFO  org.dspace.app.webui.servlet.WorkspaceServlet @ repositorio@ufps:session_id=5E9F7326A150B5B02B29DCD7C6F428DA:ip_addr=192.168.1.8:View Workspace Item:workspace_item_id=1
+2018-04-05 20:27:30,320 INFO  org.dspace.content.WorkspaceItem @ repositorio@ufps:session_id=5E9F7326A150B5B02B29DCD7C6F428DA:ip_addr=192.168.1.8:update_workspace_item:workspace_item_id=1
+2018-04-05 20:27:30,330 INFO  org.dspace.content.Item @ repositorio@ufps:session_id=5E9F7326A150B5B02B29DCD7C6F428DA:ip_addr=192.168.1.8:update_item:item_id=1
+2018-04-05 20:27:39,770 INFO  org.dspace.content.WorkspaceItem @ repositorio@ufps:session_id=5E9F7326A150B5B02B29DCD7C6F428DA:ip_addr=192.168.1.8:update_workspace_item:workspace_item_id=1
+2018-04-05 20:27:39,776 INFO  org.dspace.content.Item @ repositorio@ufps:session_id=5E9F7326A150B5B02B29DCD7C6F428DA:ip_addr=192.168.1.8:update_item:item_id=1
+2018-04-05 20:27:39,798 INFO  org.dspace.event.EventManager @ 
+2018-04-05 20:27:43,951 INFO  org.dspace.content.WorkspaceItem @ repositorio@ufps:session_id=5E9F7326A150B5B02B29DCD7C6F428DA:ip_addr=192.168.1.8:update_workspace_item:workspace_item_id=1
+2018-04-05 20:27:43,953 INFO  org.dspace.content.Item @ repositorio@ufps:session_id=5E9F7326A150B5B02B29DCD7C6F428DA:ip_addr=192.168.1.8:update_item:item_id=1
+2018-04-05 20:28:07,527 INFO  org.dspace.content.Bundle @ repositorio@ufps:session_id=5E9F7326A150B5B02B29DCD7C6F428DA:ip_addr=192.168.1.8:create_bundle:bundle_id=1
+2018-04-05 20:28:07,529 INFO  org.dspace.content.Bundle @ repositorio@ufps:session_id=5E9F7326A150B5B02B29DCD7C6F428DA:ip_addr=192.168.1.8:update_bundle:bundle_id=1
+2018-04-05 20:28:07,562 INFO  org.dspace.content.Item @ repositorio@ufps:session_id=5E9F7326A150B5B02B29DCD7C6F428DA:ip_addr=192.168.1.8:add_bundle:item_id=1,bundle_id=1
+2018-04-05 20:28:07,725 INFO  org.dspace.content.Bitstream @ repositorio@ufps:session_id=5E9F7326A150B5B02B29DCD7C6F428DA:ip_addr=192.168.1.8:create_bitstream:bitstream_id=1
+2018-04-05 20:28:07,772 INFO  org.dspace.content.Bundle @ repositorio@ufps:session_id=5E9F7326A150B5B02B29DCD7C6F428DA:ip_addr=192.168.1.8:add_bitstream:bundle_id=1,bitstream_id=1
+2018-04-05 20:28:07,841 INFO  org.dspace.content.Item @ repositorio@ufps:session_id=5E9F7326A150B5B02B29DCD7C6F428DA:ip_addr=192.168.1.8:add_bundle:item_id=1,bundle_id=1
+2018-04-05 20:28:07,865 INFO  org.dspace.content.Bitstream @ repositorio@ufps:session_id=5E9F7326A150B5B02B29DCD7C6F428DA:ip_addr=192.168.1.8:update_bitstream:bitstream_id=1
+2018-04-05 20:28:07,889 INFO  org.dspace.content.Item @ repositorio@ufps:session_id=5E9F7326A150B5B02B29DCD7C6F428DA:ip_addr=192.168.1.8:update_item:item_id=1
+2018-04-05 20:28:07,890 INFO  org.dspace.content.Bitstream @ repositorio@ufps:session_id=5E9F7326A150B5B02B29DCD7C6F428DA:ip_addr=192.168.1.8:update_bitstream:bitstream_id=1
+2018-04-05 20:30:42,679 INFO  org.dspace.browse.BrowseEngine @ repositorio@ufps:session_id=5E9F7326A150B5B02B29DCD7C6F428DA:ip_addr=192.168.1.8:browse_mini:
+2018-04-05 20:30:42,689 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2018-04-05 20:30:52,074 INFO  org.dspace.app.webui.servlet.LogoutServlet @ repositorio@ufps:session_id=5E9F7326A150B5B02B29DCD7C6F428DA:ip_addr=192.168.1.8:logout:

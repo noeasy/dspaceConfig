@@ -1,0 +1,21 @@
+# Email sent to DSpace users when they BTE batch import fails.
+#
+# Parameters: {0} the export error
+#             {1} the URL to the feedback page
+#             
+#
+# See org.dspace.core.Email for information on the format of this file.
+#
+Subject: DSpace - La importación del lote no se completó
+La importación por lotes que inició desde la interfaz de usuario del Repositorio no se completó, debido a la siguiente razón:
+ {0}
+
+Para más información, puede contactar al administrador de su sistema:
+ {1}
+
+
+
+Biblioteca Eduardo Cote Lamus
+Repositorio Digital Ufps-RDU
+repository@ufps.edu.co
+

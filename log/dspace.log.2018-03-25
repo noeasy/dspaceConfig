@@ -1,0 +1,171 @@
+2018-03-25 08:33:03,015 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS is 'PostgreSQL'
+2018-03-25 08:33:03,017 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS driver version is '9.1.24lts2'
+2018-03-25 08:33:03,068 INFO  org.dspace.storage.rdbms.DatabaseUtils @ Loading Flyway DB migrations from: filesystem:/dspace/etc/postgres, classpath:org.dspace.storage.rdbms.sqlmigration.postgres, classpath:org.dspace.storage.rdbms.migration
+2018-03-25 08:33:03,389 INFO  org.flywaydb.core.internal.dbsupport.DbSupportFactory @ Database: jdbc:postgresql://localhost:5432/dspace (PostgreSQL 9.1)
+2018-03-25 08:33:03,643 INFO  org.dspace.storage.rdbms.DatabaseUtils @ DSpace database schema is up to date
+2018-03-25 08:33:10,200 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Loading XMLUI configuration from: /dspace/config/xmlui.xconf
+2018-03-25 08:33:10,595 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Displaying Artifacts', path='resource://aspects/ViewArtifacts/'.
+2018-03-25 08:33:10,595 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Browsing Artifacts', path='resource://aspects/BrowseArtifacts/'.
+2018-03-25 08:33:10,595 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Discovery', path='resource://aspects/Discovery/'.
+2018-03-25 08:33:10,595 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Administration', path='resource://aspects/Administrative/'.
+2018-03-25 08:33:10,595 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='E-Person', path='resource://aspects/EPerson/'.
+2018-03-25 08:33:10,595 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Submission and Workflow', path='resource://aspects/Submission/'.
+2018-03-25 08:33:10,596 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Statistics', path='resource://aspects/Statistics/'.
+2018-03-25 08:33:10,596 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Original Workflow', path='resource://aspects/Workflow/'.
+2018-03-25 08:33:10,596 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Theme Installed: name='Atmire Mirage Theme', path='Mirage/', id='null', regex='.*', handle='null'.
+2018-03-25 08:33:45,010 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS is 'PostgreSQL'
+2018-03-25 08:33:45,012 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS driver version is '9.1.24lts2'
+2018-03-25 08:33:45,072 INFO  org.dspace.storage.rdbms.DatabaseUtils @ Loading Flyway DB migrations from: filesystem:/dspace/etc/postgres, classpath:org.dspace.storage.rdbms.sqlmigration.postgres, classpath:org.dspace.storage.rdbms.migration
+2018-03-25 08:33:45,107 INFO  org.flywaydb.core.internal.dbsupport.DbSupportFactory @ Database: jdbc:postgresql://localhost:5432/dspace (PostgreSQL 9.1)
+2018-03-25 08:33:45,297 INFO  org.dspace.storage.rdbms.DatabaseUtils @ DSpace database schema is up to date
+2018-03-25 08:33:57,048 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS is 'PostgreSQL'
+2018-03-25 08:33:57,050 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS driver version is '9.1.24lts2'
+2018-03-25 08:33:57,122 INFO  org.dspace.storage.rdbms.DatabaseUtils @ Loading Flyway DB migrations from: filesystem:/dspace/etc/postgres, classpath:org.dspace.storage.rdbms.sqlmigration.postgres, classpath:org.dspace.storage.rdbms.migration
+2018-03-25 08:33:57,146 INFO  org.flywaydb.core.internal.dbsupport.DbSupportFactory @ Database: jdbc:postgresql://localhost:5432/dspace (PostgreSQL 9.1)
+2018-03-25 08:33:57,202 INFO  org.dspace.storage.rdbms.DatabaseUtils @ DSpace database schema is up to date
+2018-03-25 08:34:06,082 INFO  org.dspace.storage.rdbms.DatabaseUtils @ Loading Flyway DB migrations from: filesystem:/dspace/etc/postgres, classpath:org.dspace.storage.rdbms.sqlmigration.postgres, classpath:org.dspace.storage.rdbms.migration
+2018-03-25 08:34:06,267 INFO  org.dspace.storage.rdbms.DatabaseUtils @ DSpace database schema is up to date
+2018-03-25 08:34:27,664 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS is 'PostgreSQL'
+2018-03-25 08:34:27,671 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS driver version is '9.1.24lts2'
+2018-03-25 08:34:27,746 INFO  org.dspace.storage.rdbms.DatabaseUtils @ Loading Flyway DB migrations from: filesystem:/dspace/etc/postgres, classpath:org.dspace.storage.rdbms.sqlmigration.postgres, classpath:org.dspace.storage.rdbms.migration
+2018-03-25 08:34:27,799 INFO  org.flywaydb.core.internal.dbsupport.DbSupportFactory @ Database: jdbc:postgresql://localhost:5432/dspace (PostgreSQL 9.1)
+2018-03-25 08:34:27,987 INFO  org.dspace.storage.rdbms.DatabaseUtils @ DSpace database schema is up to date
+2018-03-25 08:36:10,631 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2018-03-25 08:36:10,757 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-25 08:36:10,864 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=D4BE53CAF6EAAD3DD93C3FFB52716A2D:ip_addr=192.168.1.8:browse_mini:
+2018-03-25 08:36:11,385 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2018-03-25 08:48:59,781 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=D4BE53CAF6EAAD3DD93C3FFB52716A2D:ip_addr=192.168.1.8:authenticate:attempting password auth of user=repositorio@ufps
+2018-03-25 08:49:00,268 INFO  org.dspace.authenticate.PasswordAuthentication @ repositorio@ufps:session_id=D4BE53CAF6EAAD3DD93C3FFB52716A2D:ip_addr=192.168.1.8:authenticate:type=PasswordAuthentication
+2018-03-25 08:49:00,349 INFO  org.dspace.eperson.EPerson @ repositorio@ufps:session_id=D4BE53CAF6EAAD3DD93C3FFB52716A2D:ip_addr=192.168.1.8:update_eperson:eperson_id=1
+2018-03-25 08:49:00,444 INFO  org.dspace.app.webui.servlet.PasswordServlet @ repositorio@ufps:session_id=D4BE53CAF6EAAD3DD93C3FFB52716A2D:ip_addr=192.168.1.8:login:type=explicit
+2018-03-25 08:49:00,470 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ repositorio@ufps:session_id=5D2AB29DACB2577F66BB5D1E566E4706:ip_addr=192.168.1.8:view_mydspace:
+2018-03-25 08:49:00,590 INFO  org.dspace.app.itemimport.ItemImport @ Created org.dspace.app.batchitemimport.work.dir of: /dspace/imports
+2018-03-25 08:49:29,718 INFO  org.dspace.app.webui.servlet.CommunityListServlet @ repositorio@ufps:session_id=5D2AB29DACB2577F66BB5D1E566E4706:ip_addr=192.168.1.8:view_community_list:
+2018-03-25 08:49:42,177 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ repositorio@ufps:session_id=5D2AB29DACB2577F66BB5D1E566E4706:ip_addr=192.168.1.8:view_mydspace:
+2018-03-25 08:49:46,254 INFO  org.dspace.browse.BrowseEngine @ repositorio@ufps:session_id=5D2AB29DACB2577F66BB5D1E566E4706:ip_addr=192.168.1.8:browse_mini:
+2018-03-25 08:49:46,272 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2018-03-25 08:53:37,648 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ repositorio@ufps:session_id=5D2AB29DACB2577F66BB5D1E566E4706:ip_addr=192.168.1.8:view_mydspace:
+2018-03-25 08:53:52,212 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=E78C861C3EF004E9F2217911BC4D35DF:ip_addr=192.168.1.8:browse_mini:
+2018-03-25 08:53:52,220 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2018-03-25 08:53:56,857 INFO  org.dspace.app.webui.servlet.CommunityListServlet @ anonymous:session_id=E78C861C3EF004E9F2217911BC4D35DF:ip_addr=192.168.1.8:view_community_list:
+2018-03-25 08:54:15,463 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=E78C861C3EF004E9F2217911BC4D35DF:ip_addr=192.168.1.8:authenticate:attempting password auth of user=repositorio@ufps
+2018-03-25 08:54:15,476 INFO  org.dspace.authenticate.PasswordAuthentication @ repositorio@ufps:session_id=E78C861C3EF004E9F2217911BC4D35DF:ip_addr=192.168.1.8:authenticate:type=PasswordAuthentication
+2018-03-25 08:54:15,478 INFO  org.dspace.eperson.EPerson @ repositorio@ufps:session_id=E78C861C3EF004E9F2217911BC4D35DF:ip_addr=192.168.1.8:update_eperson:eperson_id=1
+2018-03-25 08:54:15,559 INFO  org.dspace.app.webui.servlet.PasswordServlet @ repositorio@ufps:session_id=E78C861C3EF004E9F2217911BC4D35DF:ip_addr=192.168.1.8:login:type=explicit
+2018-03-25 08:54:15,570 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ repositorio@ufps:session_id=30A3BB0D1E57B4D16E46A43D7CFC676C:ip_addr=192.168.1.8:view_mydspace:
+2018-03-25 08:54:21,442 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ repositorio@ufps:session_id=30A3BB0D1E57B4D16E46A43D7CFC676C:ip_addr=192.168.1.8:view_mydspace:
+2018-03-25 08:54:23,805 INFO  org.dspace.app.webui.servlet.CommunityListServlet @ repositorio@ufps:session_id=30A3BB0D1E57B4D16E46A43D7CFC676C:ip_addr=192.168.1.8:view_community_list:
+2018-03-25 08:54:31,470 INFO  org.dspace.content.Community @ repositorio@ufps:session_id=30A3BB0D1E57B4D16E46A43D7CFC676C:ip_addr=192.168.1.8:create_community:community_id=1,handle=123456789/1
+2018-03-25 08:54:31,496 INFO  org.dspace.content.Community @ repositorio@ufps:session_id=30A3BB0D1E57B4D16E46A43D7CFC676C:ip_addr=192.168.1.8:update_community:community_id=1
+2018-03-25 08:54:31,532 INFO  org.dspace.event.EventManager @ 
+2018-03-25 08:54:31,764 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 123456789/1 to Index
+2018-03-25 08:54:31,845 INFO  org.dspace.app.webui.servlet.HandleServlet @ repositorio@ufps:session_id=30A3BB0D1E57B4D16E46A43D7CFC676C:ip_addr=192.168.1.8:view_community:community_id=1
+2018-03-25 08:54:31,884 INFO  org.dspace.browse.BrowseEngine @ repositorio@ufps:session_id=30A3BB0D1E57B4D16E46A43D7CFC676C:ip_addr=192.168.1.8:browse_mini:
+2018-03-25 08:54:31,893 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Community@276: 3
+2018-03-25 08:54:31,933 INFO  org.dspace.usage.LoggerUsageEventListener @ repositorio@ufps:session_id=30A3BB0D1E57B4D16E46A43D7CFC676C:ip_addr=192.168.1.8:view_community:community_id=1
+2018-03-25 08:54:31,942 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.spidersfile:null
+2018-03-25 08:54:31,942 INFO  org.dspace.statistics.SolrLogger @ solr-statistics.server:http://localhost:8080/solr/statistics
+2018-03-25 08:54:31,942 INFO  org.dspace.statistics.SolrLogger @ usage-statistics.dbfile:/dspace/config/GeoLiteCity.dat
+2018-03-25 08:54:31,965 INFO  org.dspace.statistics.SolrLogger @ useProxies=false
+2018-03-25 08:54:31,996 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/agents/example
+2018-03-25 08:54:32,009 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-infoseek.txt
+2018-03-25 08:54:32,009 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-excite.txt
+2018-03-25 08:54:32,050 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-inktomi.txt
+2018-03-25 08:54:32,059 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-altavista.txt
+2018-03-25 08:54:32,226 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-misc.txt
+2018-03-25 08:54:33,309 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading pixnat09.whizbang.com:  null
+2018-03-25 08:54:33,517 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading morgue1.corp.yahoo.com:  Unresolvable host name (empty response)
+2018-03-25 08:54:34,009 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading crawl8-public.alexa.com:  Unresolvable host name (empty response)
+2018-03-25 08:54:34,346 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading zeus.nj.nec.com:  Unresolvable host name (empty response)
+2018-03-25 08:54:34,954 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading xs4.kso.co.uk:  null
+2018-03-25 08:54:35,068 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading wfp2.almaden.ibm.com:  Unresolvable host name (empty response)
+2018-03-25 08:54:35,171 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading crawler918.com:  Unresolvable host name (empty response)
+2018-03-25 08:54:35,462 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading idle.eidetica.com:  Unresolvable host name (empty response)
+2018-03-25 08:54:36,448 WARN  org.dspace.statistics.util.SpiderDetector @ Not loading pixnat06.whizbang.com:  null
+2018-03-25 08:54:36,448 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-non_engines.txt
+2018-03-25 08:54:36,483 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-google.txt
+2018-03-25 08:54:36,501 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded Spider IP file: /dspace/config/spiders/iplists.com-lycos.txt
+2018-03-25 08:54:36,536 INFO  org.dspace.statistics.util.SpiderDetector @ Loaded pattern file:  /dspace/config/spiders/domains/example
+2018-03-25 08:55:06,201 INFO  org.dspace.content.Community @ repositorio@ufps:session_id=30A3BB0D1E57B4D16E46A43D7CFC676C:ip_addr=192.168.1.8:add_subcommunity:parent_comm_id=1,child_comm_id=2
+2018-03-25 08:55:06,716 INFO  org.dspace.content.Community @ repositorio@ufps:session_id=30A3BB0D1E57B4D16E46A43D7CFC676C:ip_addr=192.168.1.8:create_community:community_id=2,handle=123456789/2
+2018-03-25 08:55:06,716 INFO  org.dspace.content.Community @ repositorio@ufps:session_id=30A3BB0D1E57B4D16E46A43D7CFC676C:ip_addr=192.168.1.8:add_subcommunity:parent_comm_id=1,child_comm_id=2
+2018-03-25 08:55:06,721 INFO  org.dspace.content.Community @ repositorio@ufps:session_id=30A3BB0D1E57B4D16E46A43D7CFC676C:ip_addr=192.168.1.8:update_community:community_id=2
+2018-03-25 08:55:06,752 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Community: 123456789/2 to Index
+2018-03-25 08:55:06,762 INFO  org.dspace.app.webui.servlet.HandleServlet @ repositorio@ufps:session_id=30A3BB0D1E57B4D16E46A43D7CFC676C:ip_addr=192.168.1.8:view_community:community_id=2
+2018-03-25 08:55:06,764 INFO  org.dspace.browse.BrowseEngine @ repositorio@ufps:session_id=30A3BB0D1E57B4D16E46A43D7CFC676C:ip_addr=192.168.1.8:browse_mini:
+2018-03-25 08:55:06,793 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Community@277: 3
+2018-03-25 08:55:06,827 INFO  org.dspace.usage.LoggerUsageEventListener @ repositorio@ufps:session_id=30A3BB0D1E57B4D16E46A43D7CFC676C:ip_addr=192.168.1.8:view_community:community_id=2
+2018-03-25 08:55:09,795 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ repositorio@ufps:session_id=30A3BB0D1E57B4D16E46A43D7CFC676C:ip_addr=192.168.1.8:view_mydspace:
+2018-03-25 08:55:44,928 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=9DAA02D4AF43B261B5BBAD3AF5A2F07E:ip_addr=192.168.1.8:browse_mini:
+2018-03-25 08:55:44,949 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2018-03-25 08:55:48,846 INFO  org.dspace.app.webui.servlet.HandleServlet @ anonymous:session_id=9DAA02D4AF43B261B5BBAD3AF5A2F07E:ip_addr=192.168.1.8:view_community:community_id=1
+2018-03-25 08:55:48,849 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=9DAA02D4AF43B261B5BBAD3AF5A2F07E:ip_addr=192.168.1.8:browse_mini:
+2018-03-25 08:55:48,856 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Community@276: 3
+2018-03-25 08:55:48,894 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=9DAA02D4AF43B261B5BBAD3AF5A2F07E:ip_addr=192.168.1.8:view_community:community_id=1
+2018-03-25 08:55:51,641 INFO  org.dspace.app.webui.servlet.HandleServlet @ anonymous:session_id=9DAA02D4AF43B261B5BBAD3AF5A2F07E:ip_addr=192.168.1.8:view_community:community_id=2
+2018-03-25 08:55:51,643 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=9DAA02D4AF43B261B5BBAD3AF5A2F07E:ip_addr=192.168.1.8:browse_mini:
+2018-03-25 08:55:51,651 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Community@277: 3
+2018-03-25 08:55:51,692 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=9DAA02D4AF43B261B5BBAD3AF5A2F07E:ip_addr=192.168.1.8:view_community:community_id=2
+2018-03-25 08:55:59,570 INFO  org.dspace.app.webui.servlet.CommunityListServlet @ anonymous:session_id=9DAA02D4AF43B261B5BBAD3AF5A2F07E:ip_addr=192.168.1.8:view_community_list:
+2018-03-25 08:56:01,846 INFO  org.dspace.app.webui.servlet.HandleServlet @ anonymous:session_id=9DAA02D4AF43B261B5BBAD3AF5A2F07E:ip_addr=192.168.1.8:view_community:community_id=2
+2018-03-25 08:56:01,847 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=9DAA02D4AF43B261B5BBAD3AF5A2F07E:ip_addr=192.168.1.8:browse_mini:
+2018-03-25 08:56:01,855 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Community@277: 3
+2018-03-25 08:56:01,895 INFO  org.dspace.usage.LoggerUsageEventListener @ anonymous:session_id=9DAA02D4AF43B261B5BBAD3AF5A2F07E:ip_addr=192.168.1.8:view_community:community_id=2
+2018-03-25 08:56:19,823 INFO  org.dspace.authenticate.PasswordAuthentication @ anonymous:session_id=9DAA02D4AF43B261B5BBAD3AF5A2F07E:ip_addr=192.168.1.8:authenticate:attempting password auth of user=repositorio@ufps
+2018-03-25 08:56:19,833 INFO  org.dspace.authenticate.PasswordAuthentication @ repositorio@ufps:session_id=9DAA02D4AF43B261B5BBAD3AF5A2F07E:ip_addr=192.168.1.8:authenticate:type=PasswordAuthentication
+2018-03-25 08:56:19,833 INFO  org.dspace.eperson.EPerson @ repositorio@ufps:session_id=9DAA02D4AF43B261B5BBAD3AF5A2F07E:ip_addr=192.168.1.8:update_eperson:eperson_id=1
+2018-03-25 08:56:19,887 INFO  org.dspace.app.webui.servlet.PasswordServlet @ repositorio@ufps:session_id=9DAA02D4AF43B261B5BBAD3AF5A2F07E:ip_addr=192.168.1.8:login:type=explicit
+2018-03-25 08:56:19,895 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:view_mydspace:
+2018-03-25 08:56:29,890 INFO  org.dspace.app.webui.servlet.CommunityListServlet @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:view_community_list:
+2018-03-25 08:56:33,655 INFO  org.dspace.app.webui.servlet.HandleServlet @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:view_community:community_id=2
+2018-03-25 08:56:33,656 INFO  org.dspace.browse.BrowseEngine @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:browse_mini:
+2018-03-25 08:56:33,663 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Community@277: 3
+2018-03-25 08:56:33,703 INFO  org.dspace.usage.LoggerUsageEventListener @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:view_community:community_id=2
+2018-03-25 08:56:37,106 INFO  org.dspace.content.Collection @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:create_collection:collection_id=1,handle=123456789/3
+2018-03-25 08:56:37,107 INFO  org.dspace.content.Community @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:add_collection:community_id=2,collection_id=1
+2018-03-25 08:56:37,434 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/3 to Index
+2018-03-25 08:56:39,994 INFO  org.dspace.eperson.Group @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:create_group:group_id=2
+2018-03-25 08:56:40,008 INFO  org.dspace.eperson.Group @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:update_group:group_id=2
+2018-03-25 08:56:40,012 INFO  org.dspace.content.Collection @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:update_collection:collection_id=1
+2018-03-25 08:56:40,274 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/3 to Index
+2018-03-25 08:56:44,065 WARN  org.dspace.app.webui.servlet.admin.CollectionWizardServlet @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:integrity_error:-- URL Was\colon; http\colon;//192.168.1.2\colon;8080/jspui/tools/collection-wizard
+-- Method\colon; GET
+-- Parameters were\colon;
+
+2018-03-25 08:56:47,325 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:view_mydspace:
+2018-03-25 08:56:53,762 INFO  org.dspace.app.webui.servlet.CommunityListServlet @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:view_community_list:
+2018-03-25 08:56:55,892 INFO  org.dspace.app.webui.servlet.HandleServlet @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:view_collection:collection_id=1
+2018-03-25 08:56:55,948 INFO  org.dspace.browse.BrowseEngine @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:browse_by_item:
+2018-03-25 08:56:55,957 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Collection@39c4b6f0: 3
+2018-03-25 08:56:56,005 INFO  org.dspace.usage.LoggerUsageEventListener @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:view_collection:collection_id=1
+2018-03-25 08:57:04,440 INFO  org.dspace.content.Collection @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:update_collection:collection_id=1
+2018-03-25 08:57:04,988 INFO  org.dspace.discovery.SolrServiceImpl @ Wrote Collection: 123456789/3 to Index
+2018-03-25 08:57:05,009 INFO  org.dspace.app.webui.servlet.HandleServlet @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:view_collection:collection_id=1
+2018-03-25 08:57:05,010 INFO  org.dspace.browse.BrowseEngine @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:browse_by_item:
+2018-03-25 08:57:05,016 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Collection@39c4b6f0: 3
+2018-03-25 08:57:05,042 INFO  org.dspace.usage.LoggerUsageEventListener @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:view_collection:collection_id=1
+2018-03-25 08:57:13,383 INFO  org.dspace.eperson.Subscribe @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:subscribe:eperson_id=1,collection_id=1
+2018-03-25 08:57:13,384 INFO  org.dspace.app.webui.servlet.HandleServlet @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:view_collection:collection_id=1
+2018-03-25 08:57:13,385 INFO  org.dspace.browse.BrowseEngine @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:browse_by_item:
+2018-03-25 08:57:13,399 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, org.dspace.content.Collection@39c4b6f0: 3
+2018-03-25 08:57:13,438 INFO  org.dspace.usage.LoggerUsageEventListener @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:view_collection:collection_id=1
+2018-03-25 08:57:21,589 INFO  org.dspace.app.webui.servlet.MyDSpaceServlet @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:view_mydspace:
+2018-03-25 08:57:27,990 INFO  org.dspace.content.Item @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:update_item:item_id=1
+2018-03-25 08:57:27,998 INFO  org.dspace.content.Item @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:create_item:item_id=1
+2018-03-25 08:57:28,005 INFO  org.dspace.content.Item @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:update_item:item_id=1
+2018-03-25 08:57:28,006 INFO  org.dspace.content.WorkspaceItem @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:create_workspace_item:workspace_item_id=-1item_id=1collection_id=1
+2018-03-25 08:57:28,098 INFO  org.dspace.content.WorkspaceItem @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:update_workspace_item:workspace_item_id=1
+2018-03-25 08:57:28,104 INFO  org.dspace.content.Item @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:update_item:item_id=1
+2018-03-25 08:57:28,107 INFO  org.dspace.content.WorkspaceItem @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:update_workspace_item:workspace_item_id=1
+2018-03-25 08:57:28,109 INFO  org.dspace.content.Item @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:update_item:item_id=1
+2018-03-25 08:57:28,110 INFO  org.dspace.content.WorkspaceItem @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:update_workspace_item:workspace_item_id=1
+2018-03-25 08:57:28,112 INFO  org.dspace.content.Item @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:update_item:item_id=1
+2018-03-25 08:58:23,727 INFO  org.dspace.content.WorkspaceItem @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:update_workspace_item:workspace_item_id=1
+2018-03-25 08:58:23,731 INFO  org.dspace.content.Item @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:update_item:item_id=1
+2018-03-25 08:58:24,117 INFO  org.dspace.content.WorkspaceItem @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:update_workspace_item:workspace_item_id=1
+2018-03-25 08:58:24,122 INFO  org.dspace.content.Item @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:update_item:item_id=1
+2018-03-25 08:58:46,105 INFO  org.dspace.content.WorkspaceItem @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:update_workspace_item:workspace_item_id=1
+2018-03-25 08:58:46,107 INFO  org.dspace.content.Item @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:update_item:item_id=1
+2018-03-25 08:58:46,136 INFO  org.dspace.content.WorkspaceItem @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:update_workspace_item:workspace_item_id=1
+2018-03-25 08:58:46,139 INFO  org.dspace.content.Item @ repositorio@ufps:session_id=9AFB26729EDEDE0684C2F93F50334D85:ip_addr=192.168.1.8:update_item:item_id=1
+2018-03-25 09:10:47,599 INFO  org.dspace.app.webui.servlet.admin.MetadataSchemaRegistryServlet @ Showing Schemas

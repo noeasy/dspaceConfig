@@ -1,0 +1,25 @@
+# Workflow curation task notification email message
+#
+# {0}  Title of submission
+# {1}  Name of collection
+# {2}  Submitter's name
+# {3}  Name of task operating
+# {4}  Task result
+# {5}  Workflow action taken
+#
+Subject: Repositorio Digital Ufps: informe de tarea de curación
+
+Titulo:       {0}
+Colección:    {1}
+Enviada por:  {2}
+
+Tarea de curacion {3} ha sido realizada
+con los siguientes resultados:
+
+{4}
+
+Acción tomada en la presentación: {5}
+
+Biblioteca Eduardo Cote Lamus
+Repositorio Digital Ufps-RDUFPS
+repository@ufps.edu.co

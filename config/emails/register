@@ -1,0 +1,18 @@
+# E-mail sent to DSpace users when they register for an account
+#
+# Parameters: {0} is expanded to a special registration URL
+#
+# See org.dspace.core.Email for information on the format of this file.
+#
+Subject: Registro de la cuenta: Repositorio Digital Ufps
+Para completar el registro de la cuenta, por favor hacer click
+en el siguiente enlace:
+
+  {0}
+
+
+
+
+Biblioteca Eduardo Cote Lamus
+Repositorio Digital Ufps-RDUFPS
+repository@ufps.edu.co

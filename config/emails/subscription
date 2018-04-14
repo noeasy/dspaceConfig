@@ -1,0 +1,15 @@
+# E-mail sent to DSpace users when new items appear in collections they are
+# subscribed to
+#
+# Parameters: {0} is the details of the new collections and items
+# See org.dspace.core.Email for information on the format of this file.
+#
+Subject: Repositorio Digital Ufps: Subscripción
+Nuevos items estan disponibles en las colección que se encuentra suscrito:
+
+{0}
+
+
+Biblioteca Eduardo Cote Lamus
+Repositorio Digital Ufps-RDU
+repository@ufps.edu.co

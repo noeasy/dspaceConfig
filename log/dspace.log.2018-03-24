@@ -1,0 +1,775 @@
+2018-03-24 15:54:58,987 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/dspace/config/dspace.cfg
+2018-03-24 15:54:59,083 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2018-03-24 15:54:59,083 INFO  org.dspace.core.ConfigurationManager @ Loading: /dspace/config/log4j.properties
+2018-03-24 15:55:29,180 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS is 'PostgreSQL'
+2018-03-24 15:55:29,180 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS driver version is '9.1.24lts2'
+2018-03-24 15:55:29,328 INFO  org.dspace.storage.rdbms.DatabaseUtils @ Loading Flyway DB migrations from: filesystem:/dspace/etc/postgres, classpath:org.dspace.storage.rdbms.sqlmigration.postgres, classpath:org.dspace.storage.rdbms.migration
+2018-03-24 15:55:29,418 INFO  org.flywaydb.core.internal.dbsupport.DbSupportFactory @ Database: jdbc:postgresql://localhost:5432/dspace (PostgreSQL 9.1)
+2018-03-24 15:55:29,908 INFO  org.dspace.storage.rdbms.DatabaseUtils @ DSpace database schema is up to date
+2018-03-24 15:56:22,484 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/dspace/config/dspace.cfg
+2018-03-24 15:56:22,561 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2018-03-24 15:56:22,561 INFO  org.dspace.core.ConfigurationManager @ Loading: /dspace/config/log4j.properties
+2018-03-24 15:56:44,529 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/dspace/config/dspace.cfg
+2018-03-24 15:56:44,607 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2018-03-24 15:56:44,608 INFO  org.dspace.core.ConfigurationManager @ Loading: /dspace/config/log4j.properties
+2018-03-24 15:57:01,841 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS is 'PostgreSQL'
+2018-03-24 15:57:01,842 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS driver version is '9.1.24lts2'
+2018-03-24 15:57:01,986 INFO  org.dspace.storage.rdbms.DatabaseUtils @ Loading Flyway DB migrations from: filesystem:/dspace/etc/postgres, classpath:org.dspace.storage.rdbms.sqlmigration.postgres, classpath:org.dspace.storage.rdbms.migration
+2018-03-24 15:57:02,072 INFO  org.flywaydb.core.internal.dbsupport.DbSupportFactory @ Database: jdbc:postgresql://localhost:5432/dspace (PostgreSQL 9.1)
+2018-03-24 15:57:02,437 INFO  org.dspace.storage.rdbms.DatabaseUtils @ DSpace database schema is up to date
+2018-03-24 16:02:06,031 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS is 'PostgreSQL'
+2018-03-24 16:02:06,039 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS driver version is '9.1.24lts2'
+2018-03-24 16:02:06,140 INFO  org.dspace.storage.rdbms.DatabaseUtils @ Loading Flyway DB migrations from: filesystem:/dspace/etc/postgres, classpath:org.dspace.storage.rdbms.sqlmigration.postgres, classpath:org.dspace.storage.rdbms.migration
+2018-03-24 16:02:06,222 INFO  org.flywaydb.core.internal.dbsupport.DbSupportFactory @ Database: jdbc:postgresql://localhost:5432/dspace (PostgreSQL 9.1)
+2018-03-24 16:02:06,544 INFO  org.dspace.storage.rdbms.DatabaseUtils @ DSpace database schema is up to date
+2018-03-24 16:02:25,804 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Loading XMLUI configuration from: /dspace/config/xmlui.xconf
+2018-03-24 16:02:26,153 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Displaying Artifacts', path='resource://aspects/ViewArtifacts/'.
+2018-03-24 16:02:26,154 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Browsing Artifacts', path='resource://aspects/BrowseArtifacts/'.
+2018-03-24 16:02:26,154 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Discovery', path='resource://aspects/Discovery/'.
+2018-03-24 16:02:26,158 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Administration', path='resource://aspects/Administrative/'.
+2018-03-24 16:02:26,158 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='E-Person', path='resource://aspects/EPerson/'.
+2018-03-24 16:02:26,159 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Submission and Workflow', path='resource://aspects/Submission/'.
+2018-03-24 16:02:26,159 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Statistics', path='resource://aspects/Statistics/'.
+2018-03-24 16:02:26,159 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Original Workflow', path='resource://aspects/Workflow/'.
+2018-03-24 16:02:26,160 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Theme Installed: name='Atmire Mirage Theme', path='Mirage/', id='null', regex='.*', handle='null'.
+2018-03-24 16:03:05,928 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS is 'PostgreSQL'
+2018-03-24 16:03:05,948 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS driver version is '9.1.24lts2'
+2018-03-24 16:03:06,066 INFO  org.dspace.storage.rdbms.DatabaseUtils @ Loading Flyway DB migrations from: filesystem:/dspace/etc/postgres, classpath:org.dspace.storage.rdbms.sqlmigration.postgres, classpath:org.dspace.storage.rdbms.migration
+2018-03-24 16:03:06,157 INFO  org.flywaydb.core.internal.dbsupport.DbSupportFactory @ Database: jdbc:postgresql://localhost:5432/dspace (PostgreSQL 9.1)
+2018-03-24 16:03:06,440 INFO  org.dspace.storage.rdbms.DatabaseUtils @ DSpace database schema is up to date
+2018-03-24 16:03:20,531 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS is 'PostgreSQL'
+2018-03-24 16:03:20,544 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS driver version is '9.1.24lts2'
+2018-03-24 16:03:20,578 INFO  org.dspace.storage.rdbms.DatabaseUtils @ Loading Flyway DB migrations from: filesystem:/dspace/etc/postgres, classpath:org.dspace.storage.rdbms.sqlmigration.postgres, classpath:org.dspace.storage.rdbms.migration
+2018-03-24 16:03:20,609 INFO  org.flywaydb.core.internal.dbsupport.DbSupportFactory @ Database: jdbc:postgresql://localhost:5432/dspace (PostgreSQL 9.1)
+2018-03-24 16:03:20,739 INFO  org.dspace.storage.rdbms.DatabaseUtils @ DSpace database schema is up to date
+2018-03-24 16:03:30,761 INFO  org.dspace.storage.rdbms.DatabaseUtils @ Loading Flyway DB migrations from: filesystem:/dspace/etc/postgres, classpath:org.dspace.storage.rdbms.sqlmigration.postgres, classpath:org.dspace.storage.rdbms.migration
+2018-03-24 16:03:31,266 INFO  org.dspace.storage.rdbms.DatabaseUtils @ DSpace database schema is up to date
+2018-03-24 16:03:51,021 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS is 'PostgreSQL'
+2018-03-24 16:03:51,024 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS driver version is '9.1.24lts2'
+2018-03-24 16:03:51,062 INFO  org.dspace.storage.rdbms.DatabaseUtils @ Loading Flyway DB migrations from: filesystem:/dspace/etc/postgres, classpath:org.dspace.storage.rdbms.sqlmigration.postgres, classpath:org.dspace.storage.rdbms.migration
+2018-03-24 16:03:51,093 INFO  org.flywaydb.core.internal.dbsupport.DbSupportFactory @ Database: jdbc:postgresql://localhost:5432/dspace (PostgreSQL 9.1)
+2018-03-24 16:03:51,200 INFO  org.dspace.storage.rdbms.DatabaseUtils @ DSpace database schema is up to date
+2018-03-24 16:06:36,599 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/dspace/config/dspace.cfg
+2018-03-24 16:06:36,667 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2018-03-24 16:06:36,668 INFO  org.dspace.core.ConfigurationManager @ Loading: /dspace/config/log4j.properties
+2018-03-24 16:06:50,705 INFO  org.dspace.storage.rdbms.DatabaseUtils @ Loading Flyway DB migrations from: filesystem:/dspace/etc/postgres, classpath:org.dspace.storage.rdbms.sqlmigration.postgres, classpath:org.dspace.storage.rdbms.migration
+2018-03-24 16:07:04,709 INFO  org.flywaydb.core.internal.dbsupport.DbSupportFactory @ Database: jdbc:postgresql://localhost:5432/dspace (PostgreSQL 9.1)
+2018-03-24 16:07:05,637 INFO  org.flywaydb.core.internal.command.DbClean @ Cleaned schema "public" (execution time 00:00.864s)
+2018-03-24 16:07:09,941 INFO  org.dspace.core.ConfigurationManager @ Loading from classloader: file:/dspace/config/dspace.cfg
+2018-03-24 16:07:10,005 INFO  org.dspace.core.ConfigurationManager @ Using dspace provided log configuration (log.init.config)
+2018-03-24 16:07:10,005 INFO  org.dspace.core.ConfigurationManager @ Loading: /dspace/config/log4j.properties
+2018-03-24 16:07:23,015 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS is 'PostgreSQL'
+2018-03-24 16:07:23,015 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS driver version is '9.1.24lts2'
+2018-03-24 16:07:23,113 INFO  org.dspace.storage.rdbms.DatabaseUtils @ Loading Flyway DB migrations from: filesystem:/dspace/etc/postgres, classpath:org.dspace.storage.rdbms.sqlmigration.postgres, classpath:org.dspace.storage.rdbms.migration
+2018-03-24 16:07:23,202 INFO  org.flywaydb.core.internal.dbsupport.DbSupportFactory @ Database: jdbc:postgresql://localhost:5432/dspace (PostgreSQL 9.1)
+2018-03-24 16:07:23,298 INFO  org.flywaydb.core.internal.metadatatable.MetaDataTableImpl @ Creating Metadata table: "public"."schema_version"
+2018-03-24 16:07:23,387 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ ALTER TABLE / ADD PRIMARY KEY creará el índice implícito «schema_version_pk» para la tabla «schema_version» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:23,433 INFO  org.flywaydb.core.internal.command.DbInit @ Schema initialized with version: 1
+2018-03-24 16:07:23,692 INFO  org.dspace.storage.rdbms.DatabaseUtils @ Pending DSpace database schema migrations:
+2018-03-24 16:07:23,699 INFO  org.dspace.storage.rdbms.DatabaseUtils @ 	1.1 Initial DSpace 1.1 database schema SQL PENDING
+2018-03-24 16:07:23,699 INFO  org.dspace.storage.rdbms.DatabaseUtils @ 	1.2 Upgrade to DSpace 1.2 schema SQL PENDING
+2018-03-24 16:07:23,699 INFO  org.dspace.storage.rdbms.DatabaseUtils @ 	1.3 Upgrade to DSpace 1.3 schema SQL PENDING
+2018-03-24 16:07:23,700 INFO  org.dspace.storage.rdbms.DatabaseUtils @ 	1.3.9 Drop constraint for DSpace 1 4 schema JDBC PENDING
+2018-03-24 16:07:23,700 INFO  org.dspace.storage.rdbms.DatabaseUtils @ 	1.4 Upgrade to DSpace 1.4 schema SQL PENDING
+2018-03-24 16:07:23,700 INFO  org.dspace.storage.rdbms.DatabaseUtils @ 	1.5 Upgrade to DSpace 1.5 schema SQL PENDING
+2018-03-24 16:07:23,700 INFO  org.dspace.storage.rdbms.DatabaseUtils @ 	1.5.9 Drop constraint for DSpace 1 6 schema JDBC PENDING
+2018-03-24 16:07:23,700 INFO  org.dspace.storage.rdbms.DatabaseUtils @ 	1.6 Upgrade to DSpace 1.6 schema SQL PENDING
+2018-03-24 16:07:23,701 INFO  org.dspace.storage.rdbms.DatabaseUtils @ 	1.7 Upgrade to DSpace 1.7 schema SQL PENDING
+2018-03-24 16:07:23,701 INFO  org.dspace.storage.rdbms.DatabaseUtils @ 	1.8 Upgrade to DSpace 1.8 schema SQL PENDING
+2018-03-24 16:07:23,701 INFO  org.dspace.storage.rdbms.DatabaseUtils @ 	3.0 Upgrade to DSpace 3.x schema SQL PENDING
+2018-03-24 16:07:23,701 INFO  org.dspace.storage.rdbms.DatabaseUtils @ 	4.0 Upgrade to DSpace 4.x schema SQL PENDING
+2018-03-24 16:07:23,705 INFO  org.dspace.storage.rdbms.DatabaseUtils @ 	5.0.2014.08.08 DS-1945 Helpdesk Request a Copy SQL PENDING
+2018-03-24 16:07:23,705 INFO  org.dspace.storage.rdbms.DatabaseUtils @ 	5.0.2014.09.25 DS 1582 Metadata For All Objects drop constraint JDBC PENDING
+2018-03-24 16:07:23,705 INFO  org.dspace.storage.rdbms.DatabaseUtils @ 	5.0.2014.09.26 DS-1582 Metadata For All Objects SQL PENDING
+2018-03-24 16:07:23,869 INFO  org.flywaydb.core.internal.command.DbValidate @ Validated 16 migrations (execution time 00:00.138s)
+2018-03-24 16:07:23,935 INFO  org.flywaydb.core.internal.command.DbMigrate @ Current version of schema "public": 1
+2018-03-24 16:07:23,936 INFO  org.flywaydb.core.internal.command.DbMigrate @ Migrating schema "public" to version 1.1
+2018-03-24 16:07:24,685 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «bitstreamformatregistry_pkey» para la tabla «bitstreamformatregistry» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:24,694 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / UNIQUE creará el índice implícito «bitstreamformatregistry_short_description_key» para la tabla «bitstreamformatregistry» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:24,715 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «fileextension_pkey» para la tabla «fileextension» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:24,745 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «bitstream_pkey» para la tabla «bitstream» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:24,753 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «eperson_pkey» para la tabla «eperson» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:24,753 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / UNIQUE creará el índice implícito «eperson_email_key» para la tabla «eperson» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:24,767 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «epersongroup_pkey» para la tabla «epersongroup» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:24,767 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / UNIQUE creará el índice implícito «epersongroup_name_key» para la tabla «epersongroup» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:24,772 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «item_pkey» para la tabla «item» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:24,785 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «bundle_pkey» para la tabla «bundle» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:24,790 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «item2bundle_pkey» para la tabla «item2bundle» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:24,804 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «bundle2bitstream_pkey» para la tabla «bundle2bitstream» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:24,820 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «dctyperegistry_pkey» para la tabla «dctyperegistry» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:24,820 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / UNIQUE creará el índice implícito «dctyperegistry_element_qualifier_key» para la tabla «dctyperegistry» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:24,837 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «dcvalue_pkey» para la tabla «dcvalue» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:24,858 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «community_pkey» para la tabla «community» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:24,859 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / UNIQUE creará el índice implícito «community_name_key» para la tabla «community» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:24,871 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «collection_pkey» para la tabla «collection» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:24,901 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «community2collection_pkey» para la tabla «community2collection» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:24,907 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «collection2item_pkey» para la tabla «collection2item» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:24,924 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «resourcepolicy_pkey» para la tabla «resourcepolicy» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:24,933 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «epersongroup2eperson_pkey» para la tabla «epersongroup2eperson» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:24,952 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «handle_pkey» para la tabla «handle» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:24,953 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / UNIQUE creará el índice implícito «handle_handle_key» para la tabla «handle» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:24,975 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «workspaceitem_pkey» para la tabla «workspaceitem» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:24,990 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «workflowitem_pkey» para la tabla «workflowitem» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:24,990 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / UNIQUE creará el índice implícito «workflowitem_item_id_key» para la tabla «workflowitem» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:24,996 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «tasklistitem_pkey» para la tabla «tasklistitem» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:25,011 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «registrationdata_pkey» para la tabla «registrationdata» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:25,012 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / UNIQUE creará el índice implícito «registrationdata_email_key» para la tabla «registrationdata» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:25,018 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «subscription_pkey» para la tabla «subscription» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:25,035 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «history_pkey» para la tabla «history» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:25,035 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / UNIQUE creará el índice implícito «history_checksum_key» para la tabla «history» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:25,039 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «historystate_pkey» para la tabla «historystate» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:25,073 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «itemsbyauthor_pkey» para la tabla «itemsbyauthor» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:25,100 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «itemsbytitle_pkey» para la tabla «itemsbytitle» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:25,126 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «itemsbydate_pkey» para la tabla «itemsbydate» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:25,149 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «itemsbydateaccessioned_pkey» para la tabla «itemsbydateaccessioned» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:25,194 INFO  org.flywaydb.core.internal.command.DbMigrate @ Migrating schema "public" to version 1.2
+2018-03-24 16:07:25,231 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «community2community_pkey» para la tabla «community2community» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:25,236 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «communities2item_pkey» para la tabla «communities2item» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:25,327 INFO  org.flywaydb.core.internal.command.DbMigrate @ Migrating schema "public" to version 1.3
+2018-03-24 16:07:25,407 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «epersongroup2item_pkey» para la tabla «epersongroup2workspaceitem» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:25,528 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ ALTER TABLE / ADD UNIQUE creará el índice implícito «eperson_netid_key» para la tabla «eperson» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:25,807 INFO  org.flywaydb.core.internal.command.DbMigrate @ Migrating schema "public" to version 1.3.9
+2018-03-24 16:07:25,854 INFO  org.flywaydb.core.internal.command.DbMigrate @ Migrating schema "public" to version 1.4
+2018-03-24 16:07:25,922 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «group2group_pkey» para la tabla «group2group» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:25,928 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «group2groupcache_pkey» para la tabla «group2groupcache» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:25,940 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «metadataschemaregistry_pkey» para la tabla «metadataschemaregistry» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:25,940 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / UNIQUE creará el índice implícito «metadataschemaregistry_namespace_key» para la tabla «metadataschemaregistry» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:25,948 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «metadatafieldregistry_pkey» para la tabla «metadatafieldregistry» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:25,962 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «metadatavalue_pkey» para la tabla «metadatavalue» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:26,013 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «checksum_results_pkey» para la tabla «checksum_results» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:26,022 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «most_recent_checksum_pkey» para la tabla «most_recent_checksum» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:26,031 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE creará una secuencia implícita «checksum_history_check_id_seq» para la columna serial «checksum_history.check_id» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:26,031 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «checksum_history_pkey» para la tabla «checksum_history» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:26,048 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «itemsbysubject_pkey» para la tabla «itemsbysubject» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:26,087 INFO  org.flywaydb.core.internal.command.DbMigrate @ Migrating schema "public" to version 1.5
+2018-03-24 16:07:26,150 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «collection_item_count_pkey» para la tabla «collection_item_count» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:26,156 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «community_item_count_pkey» para la tabla «community_item_count» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:26,161 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ eliminando además 2 objetos más (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:26,163 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ eliminando además 2 objetos más (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:26,164 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ eliminando además 2 objetos más (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:26,167 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ eliminando además 2 objetos más (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:26,170 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ eliminando además 2 objetos más (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:26,462 INFO  org.flywaydb.core.internal.command.DbMigrate @ Migrating schema "public" to version 1.5.9
+2018-03-24 16:07:26,518 INFO  org.flywaydb.core.internal.command.DbMigrate @ Migrating schema "public" to version 1.6
+2018-03-24 16:07:26,597 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «harvested_collection_pkey» para la tabla «harvested_collection» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:26,613 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «harvested_item_pkey» para la tabla «harvested_item» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:26,699 INFO  org.flywaydb.core.internal.command.DbMigrate @ Migrating schema "public" to version 1.7
+2018-03-24 16:07:26,759 INFO  org.flywaydb.core.internal.command.DbMigrate @ Migrating schema "public" to version 1.8
+2018-03-24 16:07:26,777 INFO  org.flywaydb.core.internal.command.DbMigrate @ Migrating schema "public" to version 3.0
+2018-03-24 16:07:26,812 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «versionhistory_pkey» para la tabla «versionhistory» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:26,818 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «versionitem_pkey» para la tabla «versionitem» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:26,906 INFO  org.flywaydb.core.internal.command.DbMigrate @ Migrating schema "public" to version 4.0
+2018-03-24 16:07:26,947 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «doi_pkey» para la tabla «doi» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:26,947 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / UNIQUE creará el índice implícito «doi_doi_key» para la tabla «doi» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:26,968 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «webapp_pkey» para la tabla «webapp» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:26,992 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / PRIMARY KEY creará el índice implícito «requestitem_pkey» para la tabla «requestitem» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:26,992 WARN  org.flywaydb.core.internal.dbsupport.JdbcTemplate @ CREATE TABLE / UNIQUE creará el índice implícito «requestitem_token_key» para la tabla «requestitem» (SQL State: 00000 - Error Code: 0)
+2018-03-24 16:07:27,030 INFO  org.flywaydb.core.internal.command.DbMigrate @ Migrating schema "public" to version 5.0.2014.08.08
+2018-03-24 16:07:27,072 INFO  org.flywaydb.core.internal.command.DbMigrate @ Migrating schema "public" to version 5.0.2014.09.25
+2018-03-24 16:07:27,450 INFO  org.flywaydb.core.internal.command.DbMigrate @ Migrating schema "public" to version 5.0.2014.09.26
+2018-03-24 16:07:27,597 INFO  org.flywaydb.core.internal.command.DbMigrate @ Successfully applied 15 migrations to schema "public" (execution time 00:03.687s).
+2018-03-24 16:07:27,613 INFO  org.dspace.storage.rdbms.DatabaseRegistryUpdater @ Updating Bitstream Format Registry based on /dspace/config/registries/bitstream-formats.xml
+2018-03-24 16:07:28,141 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=1
+2018-03-24 16:07:28,144 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=1
+2018-03-24 16:07:28,189 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=2
+2018-03-24 16:07:28,191 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=2
+2018-03-24 16:07:28,210 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=3
+2018-03-24 16:07:28,212 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=3
+2018-03-24 16:07:28,228 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=4
+2018-03-24 16:07:28,230 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=4
+2018-03-24 16:07:28,258 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=5
+2018-03-24 16:07:28,259 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=5
+2018-03-24 16:07:28,305 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=6
+2018-03-24 16:07:28,307 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=6
+2018-03-24 16:07:28,351 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=7
+2018-03-24 16:07:28,353 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=7
+2018-03-24 16:07:28,393 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=8
+2018-03-24 16:07:28,398 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=8
+2018-03-24 16:07:28,432 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=9
+2018-03-24 16:07:28,438 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=9
+2018-03-24 16:07:28,465 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=10
+2018-03-24 16:07:28,467 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=10
+2018-03-24 16:07:28,484 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=11
+2018-03-24 16:07:28,486 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=11
+2018-03-24 16:07:28,527 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=12
+2018-03-24 16:07:28,535 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=12
+2018-03-24 16:07:28,571 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=13
+2018-03-24 16:07:28,579 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=13
+2018-03-24 16:07:28,600 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=14
+2018-03-24 16:07:28,601 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=14
+2018-03-24 16:07:28,650 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=15
+2018-03-24 16:07:28,651 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=15
+2018-03-24 16:07:28,699 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=16
+2018-03-24 16:07:28,702 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=16
+2018-03-24 16:07:28,730 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=17
+2018-03-24 16:07:28,731 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=17
+2018-03-24 16:07:28,775 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=18
+2018-03-24 16:07:28,786 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=18
+2018-03-24 16:07:28,810 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=19
+2018-03-24 16:07:28,814 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=19
+2018-03-24 16:07:28,843 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=20
+2018-03-24 16:07:28,845 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=20
+2018-03-24 16:07:28,875 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=21
+2018-03-24 16:07:28,883 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=21
+2018-03-24 16:07:28,909 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=22
+2018-03-24 16:07:28,914 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=22
+2018-03-24 16:07:28,943 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=23
+2018-03-24 16:07:28,948 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=23
+2018-03-24 16:07:28,984 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=24
+2018-03-24 16:07:28,991 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=24
+2018-03-24 16:07:29,027 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=25
+2018-03-24 16:07:29,028 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=25
+2018-03-24 16:07:29,060 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=26
+2018-03-24 16:07:29,062 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=26
+2018-03-24 16:07:29,080 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=27
+2018-03-24 16:07:29,081 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=27
+2018-03-24 16:07:29,089 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=28
+2018-03-24 16:07:29,090 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=28
+2018-03-24 16:07:29,099 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=29
+2018-03-24 16:07:29,104 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=29
+2018-03-24 16:07:29,118 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=30
+2018-03-24 16:07:29,119 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=30
+2018-03-24 16:07:29,130 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=31
+2018-03-24 16:07:29,131 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=31
+2018-03-24 16:07:29,144 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=32
+2018-03-24 16:07:29,145 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=32
+2018-03-24 16:07:29,160 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=33
+2018-03-24 16:07:29,161 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=33
+2018-03-24 16:07:29,170 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=34
+2018-03-24 16:07:29,171 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=34
+2018-03-24 16:07:29,182 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=35
+2018-03-24 16:07:29,184 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=35
+2018-03-24 16:07:29,196 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=36
+2018-03-24 16:07:29,197 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=36
+2018-03-24 16:07:29,208 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=37
+2018-03-24 16:07:29,210 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=37
+2018-03-24 16:07:29,219 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=38
+2018-03-24 16:07:29,220 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=38
+2018-03-24 16:07:29,231 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=39
+2018-03-24 16:07:29,232 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=39
+2018-03-24 16:07:29,250 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=40
+2018-03-24 16:07:29,255 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=40
+2018-03-24 16:07:29,322 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=41
+2018-03-24 16:07:29,324 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=41
+2018-03-24 16:07:29,411 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=42
+2018-03-24 16:07:29,412 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=42
+2018-03-24 16:07:29,441 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=43
+2018-03-24 16:07:29,442 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=43
+2018-03-24 16:07:29,454 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=44
+2018-03-24 16:07:29,455 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=44
+2018-03-24 16:07:29,469 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=45
+2018-03-24 16:07:29,470 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=45
+2018-03-24 16:07:29,487 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=46
+2018-03-24 16:07:29,489 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=46
+2018-03-24 16:07:29,502 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=47
+2018-03-24 16:07:29,503 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=47
+2018-03-24 16:07:29,512 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=48
+2018-03-24 16:07:29,513 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=48
+2018-03-24 16:07:29,525 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=49
+2018-03-24 16:07:29,526 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=49
+2018-03-24 16:07:29,538 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=50
+2018-03-24 16:07:29,540 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=50
+2018-03-24 16:07:29,565 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=51
+2018-03-24 16:07:29,571 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=51
+2018-03-24 16:07:29,593 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=52
+2018-03-24 16:07:29,595 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=52
+2018-03-24 16:07:29,612 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=53
+2018-03-24 16:07:29,614 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=53
+2018-03-24 16:07:29,634 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=54
+2018-03-24 16:07:29,636 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=54
+2018-03-24 16:07:29,650 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=55
+2018-03-24 16:07:29,651 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=55
+2018-03-24 16:07:29,686 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=56
+2018-03-24 16:07:29,688 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=56
+2018-03-24 16:07:29,703 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=57
+2018-03-24 16:07:29,705 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=57
+2018-03-24 16:07:29,726 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=58
+2018-03-24 16:07:29,728 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=58
+2018-03-24 16:07:29,748 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=59
+2018-03-24 16:07:29,749 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=59
+2018-03-24 16:07:29,762 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=60
+2018-03-24 16:07:29,763 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=60
+2018-03-24 16:07:29,779 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=61
+2018-03-24 16:07:29,780 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=61
+2018-03-24 16:07:29,808 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=62
+2018-03-24 16:07:29,810 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=62
+2018-03-24 16:07:29,824 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=63
+2018-03-24 16:07:29,825 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=63
+2018-03-24 16:07:29,838 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=64
+2018-03-24 16:07:29,839 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=64
+2018-03-24 16:07:29,853 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=65
+2018-03-24 16:07:29,854 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=65
+2018-03-24 16:07:29,864 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=66
+2018-03-24 16:07:29,865 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=66
+2018-03-24 16:07:29,879 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=67
+2018-03-24 16:07:29,880 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=67
+2018-03-24 16:07:29,898 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=68
+2018-03-24 16:07:29,900 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=68
+2018-03-24 16:07:29,919 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=69
+2018-03-24 16:07:29,920 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=69
+2018-03-24 16:07:29,935 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=70
+2018-03-24 16:07:29,937 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=70
+2018-03-24 16:07:29,951 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=71
+2018-03-24 16:07:29,952 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=71
+2018-03-24 16:07:29,971 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=72
+2018-03-24 16:07:29,972 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=72
+2018-03-24 16:07:29,987 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=73
+2018-03-24 16:07:29,988 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=73
+2018-03-24 16:07:30,002 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=74
+2018-03-24 16:07:30,003 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=74
+2018-03-24 16:07:30,032 INFO  org.dspace.content.BitstreamFormat @ anonymous::create_bitstream_format:bitstream_format_id=75
+2018-03-24 16:07:30,038 INFO  org.dspace.content.BitstreamFormat @ anonymous::update_bitstream_format:bitstream_format_id=75
+2018-03-24 16:07:30,041 INFO  org.dspace.administer.RegistryLoader @ anonymous::load_bitstream_formats:number_loaded=75
+2018-03-24 16:07:30,041 INFO  org.dspace.storage.rdbms.DatabaseRegistryUpdater @ Updating Metadata Registries based on metadata type configs in /dspace/config/registries/
+2018-03-24 16:07:30,164 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2018-03-24 16:07:30,476 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,494 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.contributor
+2018-03-24 16:07:30,499 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=1
+2018-03-24 16:07:30,516 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,523 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.contributor.advisor
+2018-03-24 16:07:30,534 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=2
+2018-03-24 16:07:30,548 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,554 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.contributor.author
+2018-03-24 16:07:30,562 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=3
+2018-03-24 16:07:30,577 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,585 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.contributor.editor
+2018-03-24 16:07:30,593 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=4
+2018-03-24 16:07:30,615 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,617 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.contributor.illustrator
+2018-03-24 16:07:30,630 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=5
+2018-03-24 16:07:30,639 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,646 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.contributor.other
+2018-03-24 16:07:30,655 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=6
+2018-03-24 16:07:30,670 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,671 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.coverage.spatial
+2018-03-24 16:07:30,679 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=7
+2018-03-24 16:07:30,699 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,702 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.coverage.temporal
+2018-03-24 16:07:30,704 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=8
+2018-03-24 16:07:30,709 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,711 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.creator
+2018-03-24 16:07:30,713 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=9
+2018-03-24 16:07:30,719 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,721 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.date
+2018-03-24 16:07:30,724 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=10
+2018-03-24 16:07:30,731 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,733 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.date.accessioned
+2018-03-24 16:07:30,734 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=11
+2018-03-24 16:07:30,745 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,749 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.date.available
+2018-03-24 16:07:30,752 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=12
+2018-03-24 16:07:30,757 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,759 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.date.copyright
+2018-03-24 16:07:30,760 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=13
+2018-03-24 16:07:30,765 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,768 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.date.created
+2018-03-24 16:07:30,770 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=14
+2018-03-24 16:07:30,773 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,774 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.date.issued
+2018-03-24 16:07:30,775 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=15
+2018-03-24 16:07:30,779 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,781 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.date.submitted
+2018-03-24 16:07:30,782 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=16
+2018-03-24 16:07:30,787 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,790 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.identifier
+2018-03-24 16:07:30,791 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=17
+2018-03-24 16:07:30,796 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,803 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.identifier.citation
+2018-03-24 16:07:30,804 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=18
+2018-03-24 16:07:30,809 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,813 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.identifier.govdoc
+2018-03-24 16:07:30,815 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=19
+2018-03-24 16:07:30,821 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,823 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.identifier.isbn
+2018-03-24 16:07:30,824 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=20
+2018-03-24 16:07:30,830 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,834 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.identifier.issn
+2018-03-24 16:07:30,836 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=21
+2018-03-24 16:07:30,843 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,846 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.identifier.sici
+2018-03-24 16:07:30,848 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=22
+2018-03-24 16:07:30,853 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,856 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.identifier.ismn
+2018-03-24 16:07:30,859 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=23
+2018-03-24 16:07:30,866 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,870 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.identifier.other
+2018-03-24 16:07:30,872 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=24
+2018-03-24 16:07:30,883 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,888 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.identifier.uri
+2018-03-24 16:07:30,889 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=25
+2018-03-24 16:07:30,895 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,898 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.description
+2018-03-24 16:07:30,900 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=26
+2018-03-24 16:07:30,906 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,909 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.description.abstract
+2018-03-24 16:07:30,911 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=27
+2018-03-24 16:07:30,919 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,924 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.description.provenance
+2018-03-24 16:07:30,926 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=28
+2018-03-24 16:07:30,931 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,934 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.description.sponsorship
+2018-03-24 16:07:30,936 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=29
+2018-03-24 16:07:30,940 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,944 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.description.statementofresponsibility
+2018-03-24 16:07:30,945 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=30
+2018-03-24 16:07:30,950 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,956 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.description.tableofcontents
+2018-03-24 16:07:30,958 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=31
+2018-03-24 16:07:30,965 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,970 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.description.uri
+2018-03-24 16:07:30,972 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=32
+2018-03-24 16:07:30,984 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:30,999 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.format
+2018-03-24 16:07:31,001 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=33
+2018-03-24 16:07:31,014 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,027 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.format.extent
+2018-03-24 16:07:31,031 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=34
+2018-03-24 16:07:31,044 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,055 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.format.medium
+2018-03-24 16:07:31,057 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=35
+2018-03-24 16:07:31,063 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,067 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.format.mimetype
+2018-03-24 16:07:31,068 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=36
+2018-03-24 16:07:31,073 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,078 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.language
+2018-03-24 16:07:31,080 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=37
+2018-03-24 16:07:31,101 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,105 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.language.iso
+2018-03-24 16:07:31,110 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=38
+2018-03-24 16:07:31,116 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,120 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.publisher
+2018-03-24 16:07:31,122 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=39
+2018-03-24 16:07:31,128 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,134 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.relation
+2018-03-24 16:07:31,136 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=40
+2018-03-24 16:07:31,141 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,154 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.relation.isformatof
+2018-03-24 16:07:31,156 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=41
+2018-03-24 16:07:31,161 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,179 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.relation.ispartof
+2018-03-24 16:07:31,181 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=42
+2018-03-24 16:07:31,195 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,201 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.relation.ispartofseries
+2018-03-24 16:07:31,202 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=43
+2018-03-24 16:07:31,207 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,211 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.relation.haspart
+2018-03-24 16:07:31,212 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=44
+2018-03-24 16:07:31,218 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,222 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.relation.isversionof
+2018-03-24 16:07:31,223 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=45
+2018-03-24 16:07:31,228 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,231 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.relation.hasversion
+2018-03-24 16:07:31,233 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=46
+2018-03-24 16:07:31,242 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,246 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.relation.isbasedon
+2018-03-24 16:07:31,248 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=47
+2018-03-24 16:07:31,255 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,260 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.relation.isreferencedby
+2018-03-24 16:07:31,262 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=48
+2018-03-24 16:07:31,269 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,272 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.relation.requires
+2018-03-24 16:07:31,273 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=49
+2018-03-24 16:07:31,284 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,288 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.relation.replaces
+2018-03-24 16:07:31,289 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=50
+2018-03-24 16:07:31,294 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,307 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.relation.isreplacedby
+2018-03-24 16:07:31,313 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=51
+2018-03-24 16:07:31,320 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,324 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.relation.uri
+2018-03-24 16:07:31,326 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=52
+2018-03-24 16:07:31,332 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,340 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.rights
+2018-03-24 16:07:31,345 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=53
+2018-03-24 16:07:31,357 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,361 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.rights.uri
+2018-03-24 16:07:31,363 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=54
+2018-03-24 16:07:31,369 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,385 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.source
+2018-03-24 16:07:31,394 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=55
+2018-03-24 16:07:31,404 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,408 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.source.uri
+2018-03-24 16:07:31,410 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=56
+2018-03-24 16:07:31,416 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,430 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.subject
+2018-03-24 16:07:31,435 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=57
+2018-03-24 16:07:31,449 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,468 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.subject.classification
+2018-03-24 16:07:31,470 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=58
+2018-03-24 16:07:31,486 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,498 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.subject.ddc
+2018-03-24 16:07:31,503 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=59
+2018-03-24 16:07:31,513 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,527 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.subject.lcc
+2018-03-24 16:07:31,538 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=60
+2018-03-24 16:07:31,547 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,551 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.subject.lcsh
+2018-03-24 16:07:31,563 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=61
+2018-03-24 16:07:31,592 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,595 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.subject.mesh
+2018-03-24 16:07:31,598 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=62
+2018-03-24 16:07:31,609 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,620 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.subject.other
+2018-03-24 16:07:31,630 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=63
+2018-03-24 16:07:31,646 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,655 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.title
+2018-03-24 16:07:31,659 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=64
+2018-03-24 16:07:31,671 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,679 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.title.alternative
+2018-03-24 16:07:31,691 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=65
+2018-03-24 16:07:31,694 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,699 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.type
+2018-03-24 16:07:31,701 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=66
+2018-03-24 16:07:31,704 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,711 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.provenance
+2018-03-24 16:07:31,722 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=67
+2018-03-24 16:07:31,732 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:31,746 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.rights.license
+2018-03-24 16:07:31,758 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=68
+2018-03-24 16:07:32,259 INFO  org.dspace.administer.MetadataImporter @ Registering Schema dcterms (http://purl.org/dc/terms/)
+2018-03-24 16:07:32,263 INFO  org.dspace.content.MetadataSchema @ anonymous::create_metadata_schema:metadata_schema_id=2
+2018-03-24 16:07:32,274 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2018-03-24 16:07:32,275 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:32,277 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.abstract
+2018-03-24 16:07:32,279 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=69
+2018-03-24 16:07:32,285 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:32,287 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.accessRights
+2018-03-24 16:07:32,295 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=70
+2018-03-24 16:07:32,305 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:32,311 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.accrualMethod
+2018-03-24 16:07:32,313 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=71
+2018-03-24 16:07:32,329 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:32,339 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.accrualPeriodicity
+2018-03-24 16:07:32,350 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=72
+2018-03-24 16:07:32,359 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:32,371 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.accrualPolicy
+2018-03-24 16:07:32,373 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=73
+2018-03-24 16:07:32,389 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:32,399 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.alternative
+2018-03-24 16:07:32,404 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=74
+2018-03-24 16:07:32,415 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:32,424 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.audience
+2018-03-24 16:07:32,426 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=75
+2018-03-24 16:07:32,435 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:32,440 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.available
+2018-03-24 16:07:32,447 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=76
+2018-03-24 16:07:32,458 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:32,460 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.bibliographicCitation
+2018-03-24 16:07:32,461 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=77
+2018-03-24 16:07:32,471 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:32,483 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.conformsTo
+2018-03-24 16:07:32,494 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=78
+2018-03-24 16:07:32,503 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:32,516 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.contributor
+2018-03-24 16:07:32,528 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=79
+2018-03-24 16:07:32,532 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:32,558 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.coverage
+2018-03-24 16:07:32,572 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=80
+2018-03-24 16:07:32,577 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:32,595 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.created
+2018-03-24 16:07:32,596 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=81
+2018-03-24 16:07:32,609 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:32,615 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.creator
+2018-03-24 16:07:32,622 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=82
+2018-03-24 16:07:32,636 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:32,642 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.date
+2018-03-24 16:07:32,650 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=83
+2018-03-24 16:07:32,660 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:32,668 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.dateAccepted
+2018-03-24 16:07:32,679 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=84
+2018-03-24 16:07:32,702 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:32,716 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.dateCopyrighted
+2018-03-24 16:07:32,717 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=85
+2018-03-24 16:07:32,727 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:32,739 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.dateSubmitted
+2018-03-24 16:07:32,742 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=86
+2018-03-24 16:07:32,762 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:32,767 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.description
+2018-03-24 16:07:32,773 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=87
+2018-03-24 16:07:32,801 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:32,803 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.educationLevel
+2018-03-24 16:07:32,811 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=88
+2018-03-24 16:07:32,817 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:32,829 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.extent
+2018-03-24 16:07:32,831 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=89
+2018-03-24 16:07:32,846 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:32,856 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.format
+2018-03-24 16:07:32,859 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=90
+2018-03-24 16:07:32,871 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:32,873 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.hasFormat
+2018-03-24 16:07:32,879 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=91
+2018-03-24 16:07:32,888 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:32,899 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.hasPart
+2018-03-24 16:07:32,911 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=92
+2018-03-24 16:07:32,924 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:32,934 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.hasVersion
+2018-03-24 16:07:32,938 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=93
+2018-03-24 16:07:32,946 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:32,948 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.identifier
+2018-03-24 16:07:32,955 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=94
+2018-03-24 16:07:32,975 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:32,983 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.instructionalMethod
+2018-03-24 16:07:32,991 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=95
+2018-03-24 16:07:33,004 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,011 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.isFormatOf
+2018-03-24 16:07:33,017 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=96
+2018-03-24 16:07:33,021 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,033 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.isPartOf
+2018-03-24 16:07:33,035 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=97
+2018-03-24 16:07:33,043 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,052 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.isReferencedBy
+2018-03-24 16:07:33,053 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=98
+2018-03-24 16:07:33,062 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,068 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.isReplacedBy
+2018-03-24 16:07:33,070 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=99
+2018-03-24 16:07:33,079 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,084 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.isRequiredBy
+2018-03-24 16:07:33,086 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=100
+2018-03-24 16:07:33,089 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,099 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.issued
+2018-03-24 16:07:33,100 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=101
+2018-03-24 16:07:33,104 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,111 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.isVersionOf
+2018-03-24 16:07:33,113 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=102
+2018-03-24 16:07:33,130 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,134 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.language
+2018-03-24 16:07:33,135 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=103
+2018-03-24 16:07:33,140 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,148 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.license
+2018-03-24 16:07:33,155 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=104
+2018-03-24 16:07:33,158 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,166 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.mediator
+2018-03-24 16:07:33,168 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=105
+2018-03-24 16:07:33,178 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,180 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.medium
+2018-03-24 16:07:33,181 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=106
+2018-03-24 16:07:33,186 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,195 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.modified
+2018-03-24 16:07:33,196 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=107
+2018-03-24 16:07:33,207 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,209 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.provenance
+2018-03-24 16:07:33,212 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=108
+2018-03-24 16:07:33,215 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,218 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.publisher
+2018-03-24 16:07:33,219 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=109
+2018-03-24 16:07:33,230 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,232 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.references
+2018-03-24 16:07:33,233 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=110
+2018-03-24 16:07:33,237 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,239 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.relation
+2018-03-24 16:07:33,240 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=111
+2018-03-24 16:07:33,244 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,245 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.replaces
+2018-03-24 16:07:33,246 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=112
+2018-03-24 16:07:33,251 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,253 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.requires
+2018-03-24 16:07:33,254 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=113
+2018-03-24 16:07:33,258 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,260 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.rights
+2018-03-24 16:07:33,261 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=114
+2018-03-24 16:07:33,266 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,271 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.rightsHolder
+2018-03-24 16:07:33,273 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=115
+2018-03-24 16:07:33,280 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,283 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.source
+2018-03-24 16:07:33,285 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=116
+2018-03-24 16:07:33,290 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,293 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.spatial
+2018-03-24 16:07:33,294 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=117
+2018-03-24 16:07:33,301 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,304 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.subject
+2018-03-24 16:07:33,305 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=118
+2018-03-24 16:07:33,317 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,319 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.tableOfContents
+2018-03-24 16:07:33,321 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=119
+2018-03-24 16:07:33,326 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,334 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.temporal
+2018-03-24 16:07:33,336 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=120
+2018-03-24 16:07:33,341 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,349 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.title
+2018-03-24 16:07:33,351 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=121
+2018-03-24 16:07:33,355 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,357 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.type
+2018-03-24 16:07:33,359 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=122
+2018-03-24 16:07:33,365 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,368 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dcterms.valid
+2018-03-24 16:07:33,370 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=123
+2018-03-24 16:07:33,392 INFO  org.dspace.administer.MetadataImporter @ Registering Schema eperson (http://dspace.org/eperson)
+2018-03-24 16:07:33,395 INFO  org.dspace.content.MetadataSchema @ anonymous::create_metadata_schema:metadata_schema_id=3
+2018-03-24 16:07:33,420 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2018-03-24 16:07:33,430 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,433 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field eperson.firstname
+2018-03-24 16:07:33,442 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=124
+2018-03-24 16:07:33,453 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,459 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field eperson.lastname
+2018-03-24 16:07:33,467 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=125
+2018-03-24 16:07:33,477 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,488 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field eperson.phone
+2018-03-24 16:07:33,499 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=126
+2018-03-24 16:07:33,522 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,524 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field eperson.language
+2018-03-24 16:07:33,525 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=127
+2018-03-24 16:07:33,566 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,615 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.date.updated
+2018-03-24 16:07:33,622 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=128
+2018-03-24 16:07:33,636 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,683 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.description.version
+2018-03-24 16:07:33,684 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=129
+2018-03-24 16:07:33,700 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,712 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.identifier.slug
+2018-03-24 16:07:33,718 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=130
+2018-03-24 16:07:33,726 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,735 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.language.rfc3066
+2018-03-24 16:07:33,736 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=131
+2018-03-24 16:07:33,743 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,752 INFO  org.dspace.administer.MetadataImporter @ Registering metadata field dc.rights.holder
+2018-03-24 16:07:33,758 INFO  org.dspace.content.MetadataField @ anonymous::create_metadata_field:metadata_field_id=132
+2018-03-24 16:07:33,762 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:07:33,774 INFO  org.dspace.storage.rdbms.DatabaseRegistryUpdater @ All Bitstream Format Regitry and Metadata Registry updates were completed.
+2018-03-24 16:07:33,799 INFO  org.dspace.eperson.Group @ anonymous::create_group:group_id=0
+2018-03-24 16:07:33,866 INFO  org.dspace.eperson.Group @ anonymous::update_group:group_id=0
+2018-03-24 16:07:33,868 INFO  org.dspace.eperson.Group @ anonymous::create_group:group_id=1
+2018-03-24 16:07:33,928 INFO  org.dspace.eperson.Group @ anonymous::update_group:group_id=1
+2018-03-24 16:07:33,940 INFO  org.dspace.event.EventManager @ 
+2018-03-24 16:08:09,569 INFO  org.dspace.eperson.EPerson @ anonymous::create_eperson:eperson_id=1
+2018-03-24 16:08:09,578 INFO  org.dspace.eperson.PasswordHash @ Initialized a random number stream using NativePRNG provided by SUN version 1.7
+2018-03-24 16:08:09,712 INFO  org.dspace.eperson.EPerson @ anonymous::update_eperson:eperson_id=1
+2018-03-24 16:08:09,738 INFO  org.dspace.eperson.Group @ anonymous::update_group:group_id=1
+2018-03-24 16:08:44,260 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS is 'PostgreSQL'
+2018-03-24 16:08:44,265 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS driver version is '9.1.24lts2'
+2018-03-24 16:08:44,361 INFO  org.dspace.storage.rdbms.DatabaseUtils @ Loading Flyway DB migrations from: filesystem:/dspace/etc/postgres, classpath:org.dspace.storage.rdbms.sqlmigration.postgres, classpath:org.dspace.storage.rdbms.migration
+2018-03-24 16:08:44,507 INFO  org.flywaydb.core.internal.dbsupport.DbSupportFactory @ Database: jdbc:postgresql://localhost:5432/dspace (PostgreSQL 9.1)
+2018-03-24 16:08:44,969 INFO  org.dspace.storage.rdbms.DatabaseUtils @ DSpace database schema is up to date
+2018-03-24 16:08:57,081 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Loading XMLUI configuration from: /dspace/config/xmlui.xconf
+2018-03-24 16:08:58,015 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Displaying Artifacts', path='resource://aspects/ViewArtifacts/'.
+2018-03-24 16:08:58,015 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Browsing Artifacts', path='resource://aspects/BrowseArtifacts/'.
+2018-03-24 16:08:58,015 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Discovery', path='resource://aspects/Discovery/'.
+2018-03-24 16:08:58,015 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Administration', path='resource://aspects/Administrative/'.
+2018-03-24 16:08:58,016 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='E-Person', path='resource://aspects/EPerson/'.
+2018-03-24 16:08:58,016 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Submission and Workflow', path='resource://aspects/Submission/'.
+2018-03-24 16:08:58,016 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Statistics', path='resource://aspects/Statistics/'.
+2018-03-24 16:08:58,016 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Aspect Installed: name='Original Workflow', path='resource://aspects/Workflow/'.
+2018-03-24 16:08:58,042 INFO  org.dspace.app.xmlui.configuration.XMLUIConfiguration @ Theme Installed: name='Atmire Mirage Theme', path='Mirage/', id='null', regex='.*', handle='null'.
+2018-03-24 16:09:53,380 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS is 'PostgreSQL'
+2018-03-24 16:09:53,393 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS driver version is '9.1.24lts2'
+2018-03-24 16:09:53,537 INFO  org.dspace.storage.rdbms.DatabaseUtils @ Loading Flyway DB migrations from: filesystem:/dspace/etc/postgres, classpath:org.dspace.storage.rdbms.sqlmigration.postgres, classpath:org.dspace.storage.rdbms.migration
+2018-03-24 16:09:53,680 INFO  org.flywaydb.core.internal.dbsupport.DbSupportFactory @ Database: jdbc:postgresql://localhost:5432/dspace (PostgreSQL 9.1)
+2018-03-24 16:09:54,193 INFO  org.dspace.storage.rdbms.DatabaseUtils @ DSpace database schema is up to date
+2018-03-24 16:10:10,696 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS is 'PostgreSQL'
+2018-03-24 16:10:10,709 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS driver version is '9.1.24lts2'
+2018-03-24 16:10:10,803 INFO  org.dspace.storage.rdbms.DatabaseUtils @ Loading Flyway DB migrations from: filesystem:/dspace/etc/postgres, classpath:org.dspace.storage.rdbms.sqlmigration.postgres, classpath:org.dspace.storage.rdbms.migration
+2018-03-24 16:10:10,880 INFO  org.flywaydb.core.internal.dbsupport.DbSupportFactory @ Database: jdbc:postgresql://localhost:5432/dspace (PostgreSQL 9.1)
+2018-03-24 16:10:11,207 INFO  org.dspace.storage.rdbms.DatabaseUtils @ DSpace database schema is up to date
+2018-03-24 16:10:25,521 INFO  org.dspace.storage.rdbms.DatabaseUtils @ Loading Flyway DB migrations from: filesystem:/dspace/etc/postgres, classpath:org.dspace.storage.rdbms.sqlmigration.postgres, classpath:org.dspace.storage.rdbms.migration
+2018-03-24 16:10:26,216 INFO  org.dspace.storage.rdbms.DatabaseUtils @ DSpace database schema is up to date
+2018-03-24 16:10:52,361 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS is 'PostgreSQL'
+2018-03-24 16:10:52,365 INFO  org.dspace.storage.rdbms.DatabaseManager @ DBMS driver version is '9.1.24lts2'
+2018-03-24 16:10:52,410 INFO  org.dspace.storage.rdbms.DatabaseUtils @ Loading Flyway DB migrations from: filesystem:/dspace/etc/postgres, classpath:org.dspace.storage.rdbms.sqlmigration.postgres, classpath:org.dspace.storage.rdbms.migration
+2018-03-24 16:10:52,449 INFO  org.flywaydb.core.internal.dbsupport.DbSupportFactory @ Database: jdbc:postgresql://localhost:5432/dspace (PostgreSQL 9.1)
+2018-03-24 16:10:52,569 INFO  org.dspace.storage.rdbms.DatabaseUtils @ DSpace database schema is up to date
+2018-03-24 16:11:03,161 INFO  org.dspace.content.MetadataSchema @ Loading schema cache for fast finds
+2018-03-24 16:11:03,198 INFO  org.dspace.content.MetadataField @ Loading MetadataField elements into cache.
+2018-03-24 16:11:03,304 INFO  org.dspace.browse.BrowseEngine @ anonymous:session_id=569BB9EB8BA20D429D001F2A89372AA5:ip_addr=0:0:0:0:0:0:0:1:browse_mini:
+2018-03-24 16:11:04,068 INFO  org.dspace.storage.rdbms.DatabaseUtils @ Post database migration, reindexing all content in Discovery search and browse engine
+2018-03-24 16:11:04,544 INFO  org.dspace.app.webui.discovery.DiscoverUtility @ facets for scope, null: 3
+2018-03-24 16:11:05,100 INFO  org.dspace.storage.rdbms.DatabaseUtils @ Reindexing is complete
